@@ -98,3 +98,6 @@ kubectl get cert -n {namespace}
 Note that now, we no longer need the certificate yaml file to apply it to get the certificate, it will be handled automatically by the ingress resource.
 
 That’s it. Easy.
+
+
+https://cert-manager.io/v1.6-docs/installation/helm/
